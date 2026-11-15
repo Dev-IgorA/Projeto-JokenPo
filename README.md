@@ -37,10 +37,9 @@ Não é necessário instalar nenhuma dependência ou servidor local para correr 
 
 * [ ] Adicionar efeitos sonoros para as jogadas e resultados.
 * [ ] Implementar um "Modo Escuro" (Dark Mode).
-* [ ] Guardar o histórico do placar no `localStorage` do navegador para não perder os pontos ao atualizar a página.
 * [ ] Criar um modo de melhor de 3 ou melhor de 5 rondas.
 
 ## ✒️ Autor
 
-* **O Teu Nome** - [Teu GitHub](https://github.com) / [Teu LinkedIn](https://linkedin.com)
+* **Dev-IgorA** - https://github.com/Dev-IgorA
 
